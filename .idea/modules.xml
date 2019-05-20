@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/django_project.iml" filepath="$PROJECT_DIR$/.idea/django_project.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/HN laptop backup/gitlab/fabrix/.idea/fabrix.iml" filepath="$USER_HOME$/Desktop/HN laptop backup/gitlab/fabrix/.idea/fabrix.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/HN laptop backup/gitlab/fabrix-api/.idea/fabrix-api.iml" filepath="$USER_HOME$/Desktop/HN laptop backup/gitlab/fabrix-api/.idea/fabrix-api.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/HN laptop backup/gitlab/fabrix-worker/.idea/fabrix-worker.iml" filepath="$USER_HOME$/Desktop/HN laptop backup/gitlab/fabrix-worker/.idea/fabrix-worker.iml" />
     </modules>
   </component>
 </project>
