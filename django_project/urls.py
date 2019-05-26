@@ -40,6 +40,7 @@ urlpatterns = [
          auth_views.PasswordResetCompleteView.as_view(template_name='users/password_reset_complete.html'), \
          name='password_reset_complete'),
     path('', include('blog.urls')),
+    path('froala_editor/', include('froala_editor.urls')),
 ]
 
 
